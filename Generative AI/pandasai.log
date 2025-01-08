@@ -1,0 +1,24 @@
+2024-08-22 11:48:00 [INFO] Question: What is unnamed 2 of Profits in lieu of salary
+2024-08-22 11:48:01 [INFO] Running PandasAI with local LLM...
+2024-08-22 11:48:01 [INFO] Prompt ID: f7176459-178e-40a4-993d-7519d5b4d9a4
+2024-08-22 11:48:01 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-08-22 11:48:01 [INFO] Executing Step 0: ValidatePipelineInput
+2024-08-22 11:48:01 [INFO] Executing Step 1: CacheLookup
+2024-08-22 11:48:01 [INFO] Executing Step 2: PromptGeneration
+2024-08-22 11:48:01 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2024-08-22 11:51:12 [INFO] Question: What is unnamed 2 of Profits in lieu of salary
+2024-08-22 11:51:12 [INFO] Running PandasAI with local LLM...
+2024-08-22 11:51:12 [INFO] Prompt ID: 7111cf1c-6d94-4844-8c55-cd1e613837bf
+2024-08-22 11:51:12 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-08-22 11:51:12 [INFO] Executing Step 0: ValidatePipelineInput
+2024-08-22 11:51:12 [INFO] Executing Step 1: CacheLookup
+2024-08-22 11:51:12 [INFO] Executing Step 2: PromptGeneration
+2024-08-22 11:51:12 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2024-08-22 11:58:57 [INFO] Question: What is unnamed 2 of Profits in lieu of salary
+2024-08-22 11:58:57 [INFO] Running PandasAI with local LLM...
+2024-08-22 11:58:57 [INFO] Prompt ID: e89c3131-5fa3-48fe-a687-064f970d6d65
+2024-08-22 11:58:57 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-08-22 11:58:57 [INFO] Executing Step 0: ValidatePipelineInput
+2024-08-22 11:58:57 [INFO] Executing Step 1: CacheLookup
+2024-08-22 11:58:57 [INFO] Executing Step 2: PromptGeneration
+2024-08-22 11:58:57 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
